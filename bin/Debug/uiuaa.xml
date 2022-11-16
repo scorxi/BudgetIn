@@ -1,0 +1,1086 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+uiuaa
+</name>
+</assembly>
+<members>
+<member name="T:uiuaa.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:uiuaa.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:uiuaa.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:uiuaa.My.Resources.Resources._217_2178237_open_eye_vector_show_hide_password_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:uiuaa.My.Resources.Resources.AI_Brain">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:uiuaa.My.Resources.Resources.am">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:uiuaa.My.Resources.Resources.display">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:uiuaa.My.Resources.Resources.download">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:uiuaa.My.Resources.Resources.icons8_account">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:uiuaa.My.Resources.Resources.icons8_box">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:uiuaa.My.Resources.Resources.icons8_cancel_32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:uiuaa.My.Resources.Resources.icons8_clothes">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:uiuaa.My.Resources.Resources.icons8_compress_32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:uiuaa.My.Resources.Resources.icons8_customer_32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:uiuaa.My.Resources.Resources.icons8_customer_321">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:uiuaa.My.Resources.Resources.icons8_dog_sit">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:uiuaa.My.Resources.Resources.icons8_email_32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:uiuaa.My.Resources.Resources.icons8_exit_32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:uiuaa.My.Resources.Resources.icons8_full_screen_32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:uiuaa.My.Resources.Resources.icons8_game_controller">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:uiuaa.My.Resources.Resources.icons8_graduation_cap">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:uiuaa.My.Resources.Resources.icons8_lock_32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:uiuaa.My.Resources.Resources.icons8_makeup">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:uiuaa.My.Resources.Resources.icons8_minimize_window_32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:uiuaa.My.Resources.Resources.icons8_money_circulation">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:uiuaa.My.Resources.Resources.icons8_person_32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:uiuaa.My.Resources.Resources.icons8_ping_pong">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:uiuaa.My.Resources.Resources.icons8_receive_cash">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:uiuaa.My.Resources.Resources.icons8_resize_vertical_32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:uiuaa.My.Resources.Resources.icons8_restaurant_32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:uiuaa.My.Resources.Resources.icons8_stack_of_money">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:uiuaa.My.Resources.Resources.icons8_stethoscope">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:uiuaa.My.Resources.Resources.icons8_stocks_growth">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:uiuaa.My.Resources.Resources.icons8_traditional_school_bus">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:uiuaa.My.Resources.Resources.icons8_transaction_list">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:uiuaa.My.Resources.Resources.icons8_wrench">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:uiuaa.My.Resources.Resources.Wallet_Cash_550px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet.Table_LoginDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet.Table_PlanningDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet.Table_TransactionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet.Table_LoginRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet.Table_PlanningRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet.Table_TransactionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet.Table_LoginRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet.Table_PlanningRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet.Table_TransactionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSetTableAdapters.Table_LoginTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSetTableAdapters.Table_PlanningTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSetTableAdapters.Table_TransactionTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:uiuaa.DB_BUDGETINDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(uiuaa.DB_BUDGETINDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:uiuaa.DB_BUDGETINDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(uiuaa.DB_BUDGETINDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:uiuaa.DB_BUDGETINDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(uiuaa.DB_BUDGETINDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:uiuaa.DB_BUDGETINDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:uiuaa.DB_BUDGETINDataSetTableAdapters.TableAdapterManager.UpdateAll(uiuaa.DB_BUDGETINDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet1.Table_LoginDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet1.Table_PlanningDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet1.Table_TransactionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet1.Table_LoginRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet1.Table_PlanningRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet1.Table_TransactionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet1.Table_LoginRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet1.Table_PlanningRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet1.Table_TransactionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet1TableAdapters.Table_LoginTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet1TableAdapters.Table_PlanningTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet1TableAdapters.Table_TransactionTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:uiuaa.DB_BUDGETINDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(uiuaa.DB_BUDGETINDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:uiuaa.DB_BUDGETINDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(uiuaa.DB_BUDGETINDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:uiuaa.DB_BUDGETINDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(uiuaa.DB_BUDGETINDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:uiuaa.DB_BUDGETINDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:uiuaa.DB_BUDGETINDataSet1TableAdapters.TableAdapterManager.UpdateAll(uiuaa.DB_BUDGETINDataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet2">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet2.Table_Budget1DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet2.Table_Income1DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet2.Table_LoginDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet2.Table_Planning1DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet2.Table_TransactionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet2.Table_Budget1Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet2.Table_Income1Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet2.Table_LoginRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet2.Table_Planning1Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet2.Table_TransactionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet2.Table_Budget1RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet2.Table_Income1RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet2.Table_LoginRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet2.Table_Planning1RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet2.Table_TransactionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet2TableAdapters.Table_Budget1TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet2TableAdapters.Table_Income1TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet2TableAdapters.Table_LoginTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet2TableAdapters.Table_Planning1TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet2TableAdapters.Table_TransactionTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet2TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:uiuaa.DB_BUDGETINDataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(uiuaa.DB_BUDGETINDataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:uiuaa.DB_BUDGETINDataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(uiuaa.DB_BUDGETINDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:uiuaa.DB_BUDGETINDataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(uiuaa.DB_BUDGETINDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:uiuaa.DB_BUDGETINDataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:uiuaa.DB_BUDGETINDataSet2TableAdapters.TableAdapterManager.UpdateAll(uiuaa.DB_BUDGETINDataSet2)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet3">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet3.Table_Budget1DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet3.Table_Income1DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet3.Table_LoginDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet3.Table_Planning1DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet3.Table_TransactionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet3.Table_Budget1Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet3.Table_Income1Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet3.Table_LoginRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet3.Table_Planning1Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet3.Table_TransactionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet3.Table_Budget1RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet3.Table_Income1RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet3.Table_LoginRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet3.Table_Planning1RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet3.Table_TransactionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet3TableAdapters.Table_Budget1TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet3TableAdapters.Table_Income1TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet3TableAdapters.Table_LoginTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet3TableAdapters.Table_Planning1TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet3TableAdapters.Table_TransactionTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet3TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:uiuaa.DB_BUDGETINDataSet3TableAdapters.TableAdapterManager.UpdateUpdatedRows(uiuaa.DB_BUDGETINDataSet3,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:uiuaa.DB_BUDGETINDataSet3TableAdapters.TableAdapterManager.UpdateInsertedRows(uiuaa.DB_BUDGETINDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:uiuaa.DB_BUDGETINDataSet3TableAdapters.TableAdapterManager.UpdateDeletedRows(uiuaa.DB_BUDGETINDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:uiuaa.DB_BUDGETINDataSet3TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:uiuaa.DB_BUDGETINDataSet3TableAdapters.TableAdapterManager.UpdateAll(uiuaa.DB_BUDGETINDataSet3)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet3TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:uiuaa.DB_BUDGETINDataSet3TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:uiuaa.DB_CONTOHDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:uiuaa.DB_CONTOHDataSet.TBL_PLANDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:uiuaa.DB_CONTOHDataSet.TBL_PLANRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:uiuaa.DB_CONTOHDataSet.TBL_PLANRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:uiuaa.DB_CONTOHDataSetTableAdapters.TBL_PLANTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:uiuaa.DB_CONTOHDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:uiuaa.DB_CONTOHDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(uiuaa.DB_CONTOHDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:uiuaa.DB_CONTOHDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(uiuaa.DB_CONTOHDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:uiuaa.DB_CONTOHDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(uiuaa.DB_CONTOHDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:uiuaa.DB_CONTOHDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:uiuaa.DB_CONTOHDataSetTableAdapters.TableAdapterManager.UpdateAll(uiuaa.DB_CONTOHDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:uiuaa.DB_CONTOHDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:uiuaa.DB_CONTOHDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:uiuaa.DB_CONTOHDataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:uiuaa.DB_CONTOHDataSet1.TBL_PLANDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:uiuaa.DB_CONTOHDataSet1.TBL_PLANRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:uiuaa.DB_CONTOHDataSet1.TBL_PLANRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:uiuaa.DB_CONTOHDataSet1TableAdapters.TBL_PLANTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:uiuaa.DB_CONTOHDataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:uiuaa.DB_CONTOHDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(uiuaa.DB_CONTOHDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:uiuaa.DB_CONTOHDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(uiuaa.DB_CONTOHDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:uiuaa.DB_CONTOHDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(uiuaa.DB_CONTOHDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:uiuaa.DB_CONTOHDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:uiuaa.DB_CONTOHDataSet1TableAdapters.TableAdapterManager.UpdateAll(uiuaa.DB_CONTOHDataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:uiuaa.DB_CONTOHDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:uiuaa.DB_CONTOHDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:uiuaa.DB_CONTOHDataSet2">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:uiuaa.DB_CONTOHDataSet2.TBL_PLANDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:uiuaa.DB_CONTOHDataSet2.TBL_PLANRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:uiuaa.DB_CONTOHDataSet2.TBL_PLANRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:uiuaa.DB_CONTOHDataSet2TableAdapters.TBL_PLANTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:uiuaa.DB_CONTOHDataSet2TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:uiuaa.DB_CONTOHDataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(uiuaa.DB_CONTOHDataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:uiuaa.DB_CONTOHDataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(uiuaa.DB_CONTOHDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:uiuaa.DB_CONTOHDataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(uiuaa.DB_CONTOHDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:uiuaa.DB_CONTOHDataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:uiuaa.DB_CONTOHDataSet2TableAdapters.TableAdapterManager.UpdateAll(uiuaa.DB_CONTOHDataSet2)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:uiuaa.DB_CONTOHDataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:uiuaa.DB_CONTOHDataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:uiuaa.DB_CONTOHDataSet3">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:uiuaa.DB_CONTOHDataSet3.TBL_PLANDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:uiuaa.DB_CONTOHDataSet3.TBL_PLANRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:uiuaa.DB_CONTOHDataSet3.TBL_PLANRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:uiuaa.DB_CONTOHDataSet3TableAdapters.TBL_PLANTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:uiuaa.DB_CONTOHDataSet3TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:uiuaa.DB_CONTOHDataSet3TableAdapters.TableAdapterManager.UpdateUpdatedRows(uiuaa.DB_CONTOHDataSet3,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:uiuaa.DB_CONTOHDataSet3TableAdapters.TableAdapterManager.UpdateInsertedRows(uiuaa.DB_CONTOHDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:uiuaa.DB_CONTOHDataSet3TableAdapters.TableAdapterManager.UpdateDeletedRows(uiuaa.DB_CONTOHDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:uiuaa.DB_CONTOHDataSet3TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:uiuaa.DB_CONTOHDataSet3TableAdapters.TableAdapterManager.UpdateAll(uiuaa.DB_CONTOHDataSet3)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:uiuaa.DB_CONTOHDataSet3TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:uiuaa.DB_CONTOHDataSet3TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:uiuaa.DB_CONTOHDataSet4">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:uiuaa.DB_CONTOHDataSet4.TBL_PLANDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:uiuaa.DB_CONTOHDataSet4.TBL_PLANRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:uiuaa.DB_CONTOHDataSet4.TBL_PLANRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:uiuaa.DB_CONTOHDataSet4TableAdapters.TBL_PLANTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:uiuaa.DB_CONTOHDataSet4TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:uiuaa.DB_CONTOHDataSet4TableAdapters.TableAdapterManager.UpdateUpdatedRows(uiuaa.DB_CONTOHDataSet4,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:uiuaa.DB_CONTOHDataSet4TableAdapters.TableAdapterManager.UpdateInsertedRows(uiuaa.DB_CONTOHDataSet4,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:uiuaa.DB_CONTOHDataSet4TableAdapters.TableAdapterManager.UpdateDeletedRows(uiuaa.DB_CONTOHDataSet4,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:uiuaa.DB_CONTOHDataSet4TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:uiuaa.DB_CONTOHDataSet4TableAdapters.TableAdapterManager.UpdateAll(uiuaa.DB_CONTOHDataSet4)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:uiuaa.DB_CONTOHDataSet4TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:uiuaa.DB_CONTOHDataSet4TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:uiuaa.DB_CONTOHDataSet5">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:uiuaa.DB_CONTOHDataSet5.TBL_PLANDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:uiuaa.DB_CONTOHDataSet5.TBL_PLANRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:uiuaa.DB_CONTOHDataSet5.TBL_PLANRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:uiuaa.DB_CONTOHDataSet5TableAdapters.TBL_PLANTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:uiuaa.DB_CONTOHDataSet5TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:uiuaa.DB_CONTOHDataSet5TableAdapters.TableAdapterManager.UpdateUpdatedRows(uiuaa.DB_CONTOHDataSet5,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:uiuaa.DB_CONTOHDataSet5TableAdapters.TableAdapterManager.UpdateInsertedRows(uiuaa.DB_CONTOHDataSet5,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:uiuaa.DB_CONTOHDataSet5TableAdapters.TableAdapterManager.UpdateDeletedRows(uiuaa.DB_CONTOHDataSet5,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:uiuaa.DB_CONTOHDataSet5TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:uiuaa.DB_CONTOHDataSet5TableAdapters.TableAdapterManager.UpdateAll(uiuaa.DB_CONTOHDataSet5)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:uiuaa.DB_CONTOHDataSet5TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:uiuaa.DB_CONTOHDataSet5TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
